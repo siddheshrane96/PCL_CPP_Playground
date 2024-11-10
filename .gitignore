@@ -1,0 +1,5 @@
+/build
+/conan/build
+
+*.swp
+*.DS_Store
